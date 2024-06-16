@@ -7,6 +7,7 @@ In the highly competitive world of fast food, understanding sales patterns and c
 The primary objective of this project is to perform a comprehensive analysis of Pizza Hut's sales data. Through this analysis, we will address several case study questions that revolve around key business metrics and trends. This includes identifying top-selling products, understanding customer behavior, and evaluating sales performance across different regions and time periods.
 
 ## ER Diagram
+(https://github.com/samdreal/PizzaHut-Sales-Analysis/blob/main/pizza_hut_er_diagram_with_all_connections.png?raw=true)
 
 
 ## Case Study Questions & Solutions
